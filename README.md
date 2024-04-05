@@ -1,1 +1,2 @@
 # VGArmy
+"Desarrollé VGArmy, un bazar en línea de ropa de paca, utilizando Php, Html, Bootstrap 4 y MySQL. Esta plataforma, inspirada en las páginas de Instagram, permite a los usuarios realizar pedidos de prendas de ropa a domicilio y participar en subastas de prendas. Además, implementé un sistema de pago en línea para facilitar las transacciones. Destaca por su riguroso proceso de verificación y validación del software, garantizando la seguridad y calidad del sistema. Este proyecto se completó en 2020 como parte de mi rol de desarrollo completo."
