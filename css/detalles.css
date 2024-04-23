@@ -1,0 +1,38 @@
+.contenedor{
+  display: flex;
+  justify-content: space-between;
+  width: 90vw;
+  position: relative;
+  right: 30vw;
+  font-size: 24px;
+}
+
+.imagen{
+  width: fit-content;
+  box-shadow: 0px 3px 8px -1px rgba(0,0,0,0.75);
+}
+
+.imagen img{
+  max-width: 40vw;
+}
+
+.text{
+  width: 49vw;
+  padding-top: 10px;
+  color: white;
+}
+
+.content{
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+.description{
+  color: white;
+}
+
+.description p{
+    font-size: 24px;
+    color: white;
+}
